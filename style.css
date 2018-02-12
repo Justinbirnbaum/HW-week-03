@@ -1,0 +1,101 @@
+body{
+
+	  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+
+}
+
+header{
+
+	background-color: black;
+	border-bottom: solid yellow 2px;
+	padding: 10px;
+}
+
+h1{
+
+	font-size: 30px;
+	color: yellow;
+}
+
+nav{
+
+	font-size: 17px;
+	color: black;
+	float: right;
+}
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+}
+
+main{
+
+	background-color: lightgrey;
+	font-size: 25px;
+	text-align: center;
+	padding: 10px;
+}
+
+.taste{
+	text-decoration: line-through;
+	color: grey;
+}
+
+.are{
+	text-decoration: underline yellow;
+}
+
+
+section{
+
+background-image: url("coworking.jpg");
+background-repeat: repeat-x;
+}
+
+
+
+aside{
+	background-color: lightgrey;
+	width: 200px;
+	font-size: 25px;
+	padding: 30px;
+
+}
+
+h3{
+
+	font-size: 30px;
+}
+
+
+.button{
+
+	border-radius: 5px;
+	padding: 2px;
+	
+}
+
+.yellow{
+
+	background-color: yellow;
+
+}
+
+.grey{
+	background-color: grey;
+	color: black;
+}
+
+.three{
+	width: 200px;
+	float: right;
+	font-size: 30px;
+}
+
+footer{
+	background-color: black;
+	color: white;
+}
+
